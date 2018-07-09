@@ -1,4 +1,4 @@
-#Learning Objectives
+# Learning Objectives
 
 * Network Activities
 * Remotes
@@ -7,3 +7,5 @@
 * Student Repositories
 * Github Classroom
 * Permissions
+* Exercises
+* Automated Testing
